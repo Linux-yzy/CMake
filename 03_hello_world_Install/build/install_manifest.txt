@@ -1,0 +1,4 @@
+/home/byron/Project/CMake_Study/03_hello_world_Install/build/test/share/doc/cmake/t2/COPYRIGHT
+/home/byron/Project/CMake_Study/03_hello_world_Install/build/test/share/doc/cmake/t2/README.txt
+/home/byron/Project/CMake_Study/03_hello_world_Install/build/test/bin/runhello.sh
+/home/byron/Project/CMake_Study/03_hello_world_Install/build/test/bin/hello

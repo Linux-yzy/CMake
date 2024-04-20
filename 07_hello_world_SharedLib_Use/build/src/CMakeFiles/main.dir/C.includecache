@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/byron/Project/CMake_Study/06_hello_world_SharedLib_Install/build/Install/include/hello/hello.h
+stdio.h
+-
+
+/home/byron/Project/CMake_Study/07_hello_world_SharedLib_Use/src/main.c
+hello.h
+/home/byron/Project/CMake_Study/07_hello_world_SharedLib_Use/src/hello.h
+

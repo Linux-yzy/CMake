@@ -1,0 +1,5 @@
+SET(LIBHELLO_SRC main.c)
+include_directories(/home/byron/Project/CMake_Study/06_hello_world_SharedLib_Install/build/Install/include/hello)
+link_directories(/home/byron/Project/CMake_Study/06_hello_world_SharedLib_Install/build/Install/lib)
+add_executable(main ${LIBHELLO_SRC})
+target_link_libraries(main libhello.so)

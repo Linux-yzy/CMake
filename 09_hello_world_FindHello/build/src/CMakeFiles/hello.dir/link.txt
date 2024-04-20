@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/hello.dir/main.c.o  -o hello -Wl,-rpath,/home/byron/Project/CMake_Study/06_hello_world_SharedLib_Install/build/Install/lib /home/byron/Project/CMake_Study/06_hello_world_SharedLib_Install/build/Install/lib/libhello.so 
